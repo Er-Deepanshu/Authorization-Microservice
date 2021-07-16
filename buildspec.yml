@@ -10,5 +10,5 @@ phases:
       - echo Build completed successfully
 artifacts:
   files:
-    - target/PensionManagementPortal.jar
+    - target/AuthorizationMicroservice.jar
   discard-paths: yes
